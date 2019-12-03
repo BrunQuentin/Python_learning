@@ -1,0 +1,5 @@
+etape 1: creer un repertoire pytest
+etape 2: metre le fichier: test_random_auto au niveau de python.exe
+etape 3: sur console windows 
+	=>python.exe -m unittest
+	=>python.exe -m unittest test_random.RandomTest.test_shuffle
